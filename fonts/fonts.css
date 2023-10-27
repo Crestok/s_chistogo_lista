@@ -1,0 +1,72 @@
+@font-face {
+   font-family:'Eb Gramond' ;
+   src:
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondregular.woff2) format('woff2'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondregular.woff)format('woff'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondregular.ttf) format('truetype');
+
+   font-weight:500;
+   font-display:swap;
+}
+
+@font-face {
+   font-family:'Eb Garamond';
+   src:
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.woff2) format('woff2'),
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.woff) format('woff'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.ttf)
+   format('truetype');
+
+   font-weight:400;
+   font-display:swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src:
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interregular.woff2) 
+   format('woff2'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interregular.woff)
+   format('woff'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interregular.ttf) 
+   format('truetype');
+   font-weight:400;
+   font-display:swap;
+
+}
+
+
+@font-face {
+   font-family:'Eb Garamond';
+   src:
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.woff2) format('woff2'),
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.woff) format('woff'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.ttf)
+   format('truetype');
+
+   font-weight:400;
+   font-display:swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src:
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interbold.woff2) 
+   format('woff2'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interbold.woff)
+   format('woff'),
+
+   url(D:\10kogorta\s chistogo lista\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interbold.ttf) 
+   format('truetype');
+   font-weight:700;
+   font-display:swap;
+
+}
+
