@@ -61,12 +61,39 @@ font-size: 16px;
 line-height:1.2;
 }
 
-.header_menu-item_active {
+.header_menu-item_active .header_menu-link {
    text-decoration: none;
 }
 
 .cover {
-padding: 7px 24px 32px 20px;
+   min-height: 258px;
+   padding: 7px 24px 32px 20px;
+   /* не отображается svg.картинка */
+   background-image:url(images/cover.svg);
+   background-repeat: no-repeat;
+   background-position: right center;
+   background-size: 95% auto;
+}
+
+.cover_title {
+   width: 100%;
+   color: #fff;
+   font-family: 'Eb Garamond', serif;
+   font-weight: 400;
+   font-size: 72px;
+   line-height: 1;
+}
+
+.accen-span {
+   display: block;
+}
+
+.text_center {
+   text-align: center;
+}
+/* текст не прилипает вправо надо исправить */
+.text-right {
+   text-align: right;
 }
 
 .intro{
